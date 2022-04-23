@@ -1,0 +1,8 @@
+{
+  "name": "dawnz-book-seller",
+  "buildpacks": [
+    {
+      "url":"heroku/gradle"
+    }
+  ]
+}
