@@ -34,7 +34,7 @@ Content-Type: application/json
 ```
 PUT /api/internal/make-admin/admin HTTP/1.1
 Host: localhost:8080
-Authorization: Bearer InternalApiKey1234!
+Authorization: Bearer ...make-admin key
 ```
 
 #### Save Book
